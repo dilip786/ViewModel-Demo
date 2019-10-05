@@ -27,9 +27,5 @@ implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_ex_version"
 ```
 # Demo
 
-<td>
-    <p align="center">
-  <img src="![ezgif com-crop](https://user-images.githubusercontent.com/10658016/66259768-0c2e7e00-e7d3-11e9-9870-c60099111058.gif)?raw=true" alt="Home Page" width="300"/>
-</p>
-</td>
+![ezgif com-crop](https://user-images.githubusercontent.com/10658016/66259768-0c2e7e00-e7d3-11e9-9870-c60099111058.gif)
  
