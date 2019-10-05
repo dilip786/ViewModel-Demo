@@ -17,7 +17,13 @@ ViewModels creates in the memory when the activity creates and it lives until th
 
 ![diagram04_ViewModel](https://user-images.githubusercontent.com/10658016/66259702-ce7d2580-e7d1-11e9-9870-ca9515ba9a47.jpg)
 
+## Dependencies
 
+```
+def lifecycle_ex_version = "2.1.0";
 
+implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_ex_version"
+
+```
 
  
