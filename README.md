@@ -4,10 +4,10 @@ When we are developing professional level android applications, One of the most 
 
 What are the configuration changes? Here are the few examples for configuration changes. 
 
-Screen Rotation
-Keyboard changes
-Language changes
-Multiwindow mode
+* Screen Rotation
+* Keyboard changes
+* Language changes
+* Multiwindow mode
 
 When configuration change happens app has to destroy and recreate, as a result of that values created at running period of the activity also destroyed. ViewModel is best solution for this problem.
 
