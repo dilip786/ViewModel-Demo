@@ -1,5 +1,7 @@
 # ViewModelDemo
 
+A simple android project that demonstrates how to implement ViewModel.
+
 When we are developing professional level android applications, One of the most common things we need to consider is configuration changes.
 
 What are the configuration changes? Here are the few examples for configuration changes. 
