@@ -15,6 +15,8 @@ ViewModels creates in the memory when the activity creates and it lives until th
 
 # ViewModel Lifecycle
 
+![viewmodel-lifecycle](https://user-images.githubusercontent.com/10658016/66259666-439c2b00-e7d1-11e9-9b9f-e333ed6ebb38.png)
+
 
 
  
